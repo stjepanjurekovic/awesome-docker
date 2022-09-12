@@ -720,7 +720,6 @@ Services to securely store your Docker images.
 - **[Valuable Docker Links](http://nane.kratzke.pages.mylab.th-luebeck.de/about/blog/2014/08/24/valuable-docker-links/)** High quality articles about docker! **MUST SEE**
 - [Become a Docker Power User with Visual Studio Code](https://www.thebyte.io/become-docker-power-user-with-vs-code) - :heavy_dollar_sign: A training course to help you become a Docker Power user with Visual Studio Code
 - [Bootstrapping Microservices with Docker, Kubernetes, and Terraform](https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform)
-- [Bootstrapping Microservices with Docker, Kubernetes, and Terraform, Second Edition](https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform-second-edition) by Ashley Davis
 - [Cloud Native Landscape](https://github.com/cncf/landscape)
 - [Docker Certification](https://intellipaat.com/docker-training-course/) :heavy_dollar_sign: will help you to will Learn Docker containerization, running Docker containers, Image creation, Dockerfile, Docker orchestration, security best practices, and more through hands-on projects and case studies and helps to clear Docker Certified Associate.
 - [Docker Community on Hashnode](https://hashnode.com/n/docker)
