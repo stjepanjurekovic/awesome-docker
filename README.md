@@ -730,6 +730,7 @@ Services to securely store your Docker images.
 - [Docker Newsletter](https://www.docker.com/newsletter-subscription) Docker newsletter for regular updates
 - [Docker packaging guide for Python](https://pythonspeed.com/docker/) - a series of detailed articles on the specifics of Docker packaging for Python.
 - [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches)
+- [Learn Docker in a Month of Lunches, Second Edition](https://www.manning.com/books/learn-docker-in-a-month-of-lunches-second-edition)
 - [Learn Docker](https://blog.coursesity.com/best-docker-tutorials/) - Learn Docker - curated list of the top online docker tutorials and courses.
 - [Programming Community Curated Resources for learning Docker](https://hackr.io/tutorials/learn-docker)
 
